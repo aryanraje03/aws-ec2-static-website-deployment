@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Static Website Deployment on AWS EC2
 
 ## Using Apache HTTP Server (Amazon Linux 2023)
@@ -149,3 +150,7 @@ Through this project I learned:
 
 **Aryanraje Dhokale**
 Cloud and DevOps Learner
+=======
+# aws-ec2-static-website-deployment
+Deployed a personal portfolio website on AWS EC2 using Apache HTTP Server. Includes setup steps, security group config &amp; live screenshots.
+>>>>>>> 3e64f348254d769d1d894f7e2178d980ae9fe80d
